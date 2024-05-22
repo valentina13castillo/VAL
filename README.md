@@ -74,19 +74,19 @@
     <main>
         <section id="menu">
             <h2>Menú</h2>
-            <p>Nuestro menú incluye una variedad de cafés, tés, pasteles y más, todos inspirados en las canciones de Taylor Swift.</p><img src="C:/Users/valen/Downloads/taylpt/373059507-265705149638253-699340-1-1694141746.jpg" alt="Menú de la cafetería Swiftie">
+            <p>Nuestro menú incluye una variedad de cafés, tés, pasteles y más, todos inspirados en las canciones de Taylor Swift.</p><img src="[C:/Users/valen/Downloads/taylpt/373059507-265705149638253-699340-1-1694141746.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.spot.ph%2Featdrink%2Fthe-latest-eat-drink%2F106222%2Ftaylor-swift-themed-cafe-in-cagayan-de-oro-a5229-20230908&psig=AOvVaw0x2pYUeUWKvyUyuU4DFX1P&ust=1716423818962000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJC63pH_n4YDFQAAAAAdAAAAABAE)" alt="Menú de la cafetería Swiftie">
         </section>
         <section id="horarios">
             <h2>Horarios</h2>
-            <p>Abierto todos los días de 8:00 AM a 10:00 PM</p><img src="C:/Users/valen/Downloads/taylpt/374596121-742254584579206-419210-1694141577.jpg" alt="Horarios de la cafetería Swiftie">
+            <p>Abierto todos los días de 8:00 AM a 10:00 PM</p><img src="[C:/Users/valen/Downloads/taylpt/374596121-742254584579206-419210-1694141577.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.spot.ph%2Featdrink%2Fthe-latest-eat-drink%2F106222%2Ftaylor-swift-themed-cafe-in-cagayan-de-oro-a5229-20230908&psig=AOvVaw0x2pYUeUWKvyUyuU4DFX1P&ust=1716423818962000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJC63pH_n4YDFQAAAAAdAAAAABA4)" alt="Horarios de la cafetería Swiftie">
         </section>
         <section id="ubicacion">
             <h2>Ubicación</h2>
-            <p>Nos encontramos en Calle Falsa 123, Ciudad Imaginaria</p><img src="https://example.com/taylor-swift-map.jpg" alt="Ubicación de la cafetería Swiftie">
+            <p>Nos encontramos en Calle Falsa 123, Ciudad Imaginaria</p><img src="[https://example.com/taylor-swift-map.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.spot.ph%2Featdrink%2Fthe-latest-eat-drink%2F106222%2Ftaylor-swift-themed-cafe-in-cagayan-de-oro-a5229-20230908&psig=AOvVaw0x2pYUeUWKvyUyuU4DFX1P&ust=1716423818962000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJC63pH_n4YDFQAAAAAdAAAAABBI)" alt="Ubicación de la cafetería Swiftie">
         </section>
         <section id="contacto">
             <h2>Contacto</h2>
-            <p>Puedes contactarnos en swiftie.coffee@gmail.com o al teléfono 123-456-7890</p><img src="C:/Users/valen/Downloads/taylpt/images.jpeg" alt="Contacto de la cafetería Swiftie">
+            <p>Puedes contactarnos en swiftie.coffee@gmail.com o al teléfono 123-456-7890</p><img src="[C:/Users/valen/Downloads/taylpt/images.jpeg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.spot.ph%2Featdrink%2Fthe-latest-eat-drink%2F106222%2Ftaylor-swift-themed-cafe-in-cagayan-de-oro-a5229-20230908&psig=AOvVaw0x2pYUeUWKvyUyuU4DFX1P&ust=1716423818962000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJC63pH_n4YDFQAAAAAdAAAAABBA)" alt="Contacto de la cafetería Swiftie">
         </section>
     </main>
     <footer>
