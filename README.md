@@ -86,7 +86,7 @@
         </section>
         <section id="contacto">
             <h2>Contacto</h2>
-            <p>Puedes contactarnos en swiftie.coffee@gmail.com o al teléfono 123-456-7890</p><img src="(https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.spot.ph%2Featdrink%2Fthe-latest-eat-drink%2F106222%2Ftaylor-swift-themed-cafe-in-cagayan-de-oro-a5229-20230908&psig=AOvVaw0x2pYUeUWKvyUyuU4DFX1P&ust=1716423818962000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCJC63pH_n4YDFQAAAAAdAAAAABBA)" alt="Contacto de la cafetería Swiftie">
+            <p>Puedes contactarnos en swiftie.coffee@gmail.com o al teléfono 123-456-7890</p><img src="https://images.summitmedia-digital.com/spotph/images/2023/09/08/371849293-138224926022369-871879-1694141846.jpg" alt="Contacto de la cafetería Swiftie">
         </section>
     </main>
     <footer>
